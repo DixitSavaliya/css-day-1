@@ -73,10 +73,10 @@ body{
 .button{
 
 	background-color: green;
-	margin-left: 10px;
+	margin: 10px;
 	border-color: black;
 	border-radius: 15px;
-	margin-bottom: 10px;
+	
 }
 .name{
 
